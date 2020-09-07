@@ -35,7 +35,7 @@ Per New York Citibike data, there were 77 thousand rides in August 2019. That br
 
 
 
-## Link to Tableau Publick Dashboard
+## Link to Tableau Public Dashboard
 [link to dashboard](LINK GOES HERE 
 https://public.tableau.com/views/Book1_15994566830560/Bike-sharingbusiness?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
