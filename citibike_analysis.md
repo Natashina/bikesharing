@@ -2,8 +2,6 @@
 This is a summary of the analytic work that I did with the NYC Citi Bike data.
 
 
-
-
 ## Statistics
 
 Bike share in the U.S. has continued its brisk growth, with 35 million trips taken in 2017, 25% more than in 2016. 
@@ -18,7 +16,6 @@ In 2018 people took more than twice as many trips – 84 million – on shared m
 
 What is the population of Des Moines? How does its population compare to the population of New York City? 
 Per United States Census Bureau, the population of Des Moines is estimated as 214.237 people, while population of New York City is 8,336,817.
-17,6% of 214.237 would 
 
 Does the population affect the number of people who will use the bike-sharing program?
 
@@ -26,17 +23,21 @@ Bikeshare programs typically have three main user groups:
 • Commuters
 • Recreaonal/Errand Riders
 • Tourists
+
 In general the most important data for bike sharing is the the number of daily commuters into and out of the city.
 Of the 1.6 mln million commuting workers who do not live in Manhattan, 82% take public transit to work [7].
 
 
 According to Des Moines Area Regional Transit Authority [4], there were 4.3 mln riders on the bus system in 2017, 43% of them are commuting to work, 7% are comuting to school.
-2.15 mln annual riders are potential commuter customers of bike sharing system.
-
-
-
+2.15 mln annual riders are potential commuter customers of bike sharing system. 2.150 mln rides per 250 working days equals 8,6 thousand rides per day.
 According to Citibike Monthly Report, there were 2,393,606 trips in August, with an average of 77,213 trips per day.
+Per New York Citibike data, there were 77 thousand rides in August 2019. That brings Des Moines market estimation as around 11% of New York City bike-sharing market.
 
+
+
+## Link to Tableau Publick Dashboard
+[link to dashboard](LINK GOES HERE 
+https://public.tableau.com/views/Book1_15994566830560/Bike-sharingbusiness?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
 References:
